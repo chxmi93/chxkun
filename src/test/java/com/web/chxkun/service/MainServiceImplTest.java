@@ -6,5 +6,6 @@ class MainServiceImplTest {
 
     @Test
     void mainView() {
+        System.out.println("test");
     }
 }
